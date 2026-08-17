@@ -30,7 +30,7 @@ FireworkSimulation/
 ```
 ## Screenshot
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](FireworkSimulation/assets/screenshot.png)
 
 ## Steuerung
 
