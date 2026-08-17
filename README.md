@@ -6,7 +6,7 @@ Eine Feuerwerk Simulation in Python/Pygame. Raketen steigen auf, driften realist
 
 - Raketen mit Aufstiegsanimation
 - Zufällige Drift-Bewegung
-- Farbige Explosionen mit Partikeln
+- Farbige Explosionen mit Partikeln und Sound
 
 ## Projektstruktur
 ```
