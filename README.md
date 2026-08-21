@@ -42,6 +42,3 @@ FireworkSimulation/
 1. Python installieren
 2. Pygame installieren mit pip install pygame
 4. Projekt starten, indem src/main.py ausgeführt wird
-
-Tobias — Python Entwickler  
-GitHub: https://github.com/tobitechdev
